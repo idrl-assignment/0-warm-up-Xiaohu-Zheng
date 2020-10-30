@@ -1,7 +1,5 @@
-# TODO: import ...
-
 import numpy as np
-from scipy import misc
+import matplotlib.pyplot as plt
 
 
 def generate_random_matrix(m, n):
@@ -10,7 +8,9 @@ def generate_random_matrix(m, n):
 
 
 def save_matrix(matrix, file_name):
-    misc.imsave('example.jpg', matrix)
+    plt.plot(matrix)
+    plt.savefig(file_name)
+    plt.show()
 
 
 if __name__ == "__main__":
