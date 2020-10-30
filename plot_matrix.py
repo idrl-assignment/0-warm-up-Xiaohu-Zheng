@@ -1,12 +1,16 @@
 # TODO: import ...
 
+import numpy as np
+from scipy import misc
+
 
 def generate_random_matrix(m, n):
-    raise NotImplementedError  # TODO: 删除该行，实现该函数功能
+    mat01 = np.random.randint(0, 2, (m, n))
+    return mat01
 
 
 def save_matrix(matrix, file_name):
-    raise NotImplementedError  # TODO: 删除该行，实现该函数功能
+    misc.imsave('example.jpg', matrix)
 
 
 if __name__ == "__main__":

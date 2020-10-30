@@ -1,2 +1,4 @@
+scipy
+numpy
 pytest
 # TODO: add additional package
