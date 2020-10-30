@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c5d009-f7db-4e26-a338-6880ae28fe66" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plot_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot_matrix.py" afterDir="false" />
-    </list>
+    <list default="true" id="e6c5d009-f7db-4e26-a338-6880ae28fe66" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +31,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604076269261</updated>
       <workItem from="1604076276567" duration="10000" />
-      <workItem from="1604076297902" duration="271000" />
+      <workItem from="1604076297902" duration="310000" />
     </task>
     <servers />
   </component>
